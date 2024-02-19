@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+<a href="https://github.com/marlonlom"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=marlonlom&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+</p>
 
 <!--
 **marlonlom/marlonlom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
