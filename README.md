@@ -1,6 +1,9 @@
-<p align="center">
-<a href="https://github.com/marlonlom"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=marlonlom&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=transparent"/></a>
-</p>
+<hr/>
+
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=marlonlom&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=transparent)
+&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonlom&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent)
+
+<hr/>
 
 <!--
 **marlonlom/marlonlom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
