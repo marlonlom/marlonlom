@@ -9,6 +9,12 @@ I’m Marlon, a software engineer from Colombia, friendly person, and music love
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marlonlom)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/marlonlom)
 
+### ⚡ A quote:
+```
+"The most important thing for an engineer is inspiration. Inspiration opens the future. Technology will come with it."
+- The Wind Rises (2013)
+```
+
 <hr/>
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=marlonlom&hide=contribs&show_icons=true&count_private=true&theme=transparent)
