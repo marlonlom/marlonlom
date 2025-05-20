@@ -19,7 +19,7 @@ I’m Marlon, a software engineer from Colombia, friendly person, and music love
 <hr/>
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=marlonlom&hide=contribs&show_icons=true&count_private=true&theme=transparent)
-&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonlom&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent)
+&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonlom&layout=compact&theme=transparent)
 
 <hr/>
 
